@@ -6,8 +6,11 @@
 -  Node.js
 -  Express.js
 -  MongoDB
--  JWT
+-  JSON Web Tokens (JWT)
 -  React.js
+-  HTML
+-  CSS
+-  JavaScript
 
 ## Installation:
 
