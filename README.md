@@ -13,7 +13,7 @@
 
 <strong>1. Clone this repository:</strong>
 ```
-git clone https://github.com/example/login-system.git
+git clone https://github.com/Veerendra-K/WebApp-for-Login-System.git
 ```
 
 <strong>2. Install the dependencies:</strong>
